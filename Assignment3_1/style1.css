@@ -1,0 +1,47 @@
+.layout
+        {
+            height: auto;
+            width: 500px;
+            padding: 10px;
+            margin-left: 30%;
+            margin-top: 30px;
+            height: auto;
+            box-shadow: 0 10px 25px black;
+        }
+        .layout h1
+        {
+            text-align: center;
+        }
+        .layout label
+        {
+            font-size: 25px;
+            margin: 10px;
+        }
+        .layout input
+        {
+            height: 30px;
+            width: 420px;
+            margin: 10px;
+        }
+        .layout button
+        {
+            height: 50px;
+            width: 430px;
+            background-color: blue;
+            text-align: center;
+        }
+        .layout input:hover
+        {
+            border: 5px solid rgb(red, green, blue);
+            border-radius: 3px;
+        }
+        .layout button:hover
+        {
+            border: 5px solid rgb(red, green, blue);
+            border-radius: 3px;
+        }
+        .layout:hover
+        {
+            background-color: white;
+            
+        }
