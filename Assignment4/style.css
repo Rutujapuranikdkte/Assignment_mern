@@ -1,0 +1,55 @@
+.layout
+{
+    width:500px;
+    height:auto;
+    padding: 30px;
+    margin: 40px auto;
+    background-color:white;
+    box-shadow: 0 10px 25px rgba(red, green, blue, alpha);
+    border: 10px solid black;
+}
+.layout h1
+{
+    text-align: center;
+}
+.layout input
+{
+    height: 35px;
+    width: 420px;
+    margin: 10px;
+    background-color:aliceblue;
+    border: 5px solid black;
+}
+.layout button
+{
+    height:50px;
+    width: 100px;
+    margin: 20px;
+    background-color:blue;
+    border: 5px solid black;
+    color: white;
+
+}
+li
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
